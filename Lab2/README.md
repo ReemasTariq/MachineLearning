@@ -1,1 +1,1 @@
-
+The Shopping Behavior dataset contains information about customers’ shopping habits, including demographic details and purchasing behavior. The dataset is used to analyze and classify customer behavior based on different attributes related to their shopping patterns.
