@@ -1,0 +1,1 @@
+This lab focuses on analyzing loan data and predicting whether a loan will be fully paid using Decision Tree and Random Forest models. After data preprocessing and visualization, both models were trained and evaluated, with Random Forest showing better performance.
