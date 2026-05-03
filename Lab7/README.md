@@ -1,0 +1,1 @@
+We built a Logistic Regression model to predict if a user clicks on an ad. We explored and visualized the dataset, split it into training and testing sets, trained the model, and evaluated its performance using accuracy and classification metrics.
